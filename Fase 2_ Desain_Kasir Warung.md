@@ -1,6 +1,6 @@
 
 
-| DOKUMEN DESAIN SISTEM Fase 2 SDLC Aplikasi Kasir Warung | Universitas Al Azhar Indonesia  |
+| DOKUMEN DESAIN SISTEM Fase 2 Aplikasi Kasir Warung | Universitas Al Azhar Indonesia  |
 | :---- | ----: |
 
 # **1\. Top-Down Design — Dekomposisi Modular**
