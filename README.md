@@ -1,4 +1,4 @@
-# 🏪 Kasir Warung — Sistem Point-of-Sale Berbasis Python
+# Kasir Warung — Sistem Point-of-Sale Berbasis Python
 
 **Tugas Akhir Algoritma & Pemrograman — Semester Genap 2025/2026**
 
