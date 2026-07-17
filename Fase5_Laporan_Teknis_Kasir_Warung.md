@@ -57,7 +57,7 @@ Proyek ini hadir sebagai solusi berbasis Python yang dapat dijalankan di termina
 
 Program dirancang menggunakan prinsip Top-Down Design dengan 4 layer yang terpisah jelas tanggung jawabnya:
 
-Hierarki Fungsi — Top-Down Design
+| Hierarki Fungsi — Top-Down Design
 Layer 0: main()                  ← Entry point & inisialisasi
 └── Layer 1: menu_utama()        ← Router / Controller utama
     ├── menu_kasir()             ← Controller transaksi
@@ -70,7 +70,7 @@ Layer 0: main()                  ← Entry point & inisialisasi
     │   ├── cetak_struk()        [Layer 3: Utility / I/O]
     │   └── simpan_riwayat()
     ├── menu_stok()  → get_kode_unik, cari_produk_*, bubble_sort, sort_builtin
-    └── menu_laporan() → tampilkan_riwayat, tampilkan_laporan_rekursif, bigO
+    └── menu_laporan() → tampilkan_riwayat, tampilkan_laporan_rekursif, bigO | 
 
 
 
