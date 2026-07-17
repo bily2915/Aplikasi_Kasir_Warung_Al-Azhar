@@ -178,4 +178,4 @@ main()                          ← Layer 0: Entry Point
 
 ---
 
-*Dibuat dengan ❤️ untuk tugas akhir Algoritma & Pemrograman — Al Azhar Indonesia 2026*
+*_Bertumbuh, Berproses, dan Bernilai Bersama dalam Menyelesaikan Tugas Akhir Algoritma & Pemrograman_*
