@@ -20,8 +20,8 @@
 |------|--------|
 | **AI yang digunakan** | Claude (Anthropic) |
 | **Framework** | CRIDE — Context, Request, Iterate, Document, Evaluate |
-| **Perkiraan % kode dari AI** | ~40% (docstring, template, review) |
-| **Perkiraan % kode sendiri** | ~60% (logika bisnis, algoritma, struktur data, debug) |
+| **Perkiraan % kode dari AI** | ~30% (docstring, template, review) |
+| **Perkiraan % kode sendiri** | ~70% (logika bisnis, algoritma, struktur data, debug) |
 | **Jumlah interaksi tercatat** | 8 interaksi |
 | **Jenis bantuan** | Dokumentasi, review, debugging hint, format struk |
 
