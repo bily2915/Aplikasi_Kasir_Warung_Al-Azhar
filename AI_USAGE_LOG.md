@@ -4,8 +4,8 @@
 
 | | |
 |---|---|
-| **Nama** | Randy Ramadhan & Wulan Purnamasari |
-| **NIM** | [NIM Randy] & [NIM Wulan] |
+| **Nama** | Randy Ramadhan, Wulan Purnamasari, Bily Nur Sepdiansyah, Ibrahim Hadi Wibisono |
+| **NIM** | 0112525012, 0102525702, 0112525002, 0112525003 |
 | **Proyek** | Aplikasi Kasir Warung — Sistem POS Berbasis Python |
 | **Mata Kuliah** | Algoritma dan Pemrograman (3 SKS) |
 | **Dosen** | Tri Aji Nugroho, S.T., M.T. |
