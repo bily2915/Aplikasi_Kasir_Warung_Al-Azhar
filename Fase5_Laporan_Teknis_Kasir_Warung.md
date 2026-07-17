@@ -57,8 +57,22 @@ Proyek ini hadir sebagai solusi berbasis Python yang dapat dijalankan di termina
 
 Program dirancang menggunakan prinsip Top-Down Design dengan 4 layer yang terpisah jelas tanggung jawabnya:
 
-| Hierarki Fungsi — Top-Down Design Layer 0: main()                  ← Entry point & inisialisasi └── Layer 1: menu\_utama()        ← Router / Controller utama     ├── menu\_kasir()             ← Controller transaksi     │   ├── tambah\_item\_ke\_keranjang()   \[Layer 2: Business Logic\]     │   ├── hapus\_item\_keranjang()     │   ├── hitung\_total()               (iteratif — Bab 4\)     │   ├── hitung\_total\_rekursif()      (rekursif — Bab 11\)     │   ├── proses\_pembayaran()     │   ├── update\_stok()     │   ├── cetak\_struk()        \[Layer 3: Utility / I/O\]     │   └── simpan\_riwayat()     ├── menu\_stok()  → get\_kode\_unik, cari\_produk\_\*, bubble\_sort, sort\_builtin     └── menu\_laporan() → tampilkan\_riwayat, tampilkan\_laporan\_rekursif, bigO |
-| :---- |
+Hierarki Fungsi — Top-Down Design
+Layer 0: main()                  ← Entry point & inisialisasi
+└── Layer 1: menu_utama()        ← Router / Controller utama
+    ├── menu_kasir()             ← Controller transaksi
+    │   ├── tambah_item_ke_keranjang()   [Layer 2: Business Logic]
+    │   ├── hapus_item_keranjang()
+    │   ├── hitung_total()               (iteratif — Bab 4)
+    │   ├── hitung_total_rekursif()      (rekursif — Bab 11)
+    │   ├── proses_pembayaran()
+    │   ├── update_stok()
+    │   ├── cetak_struk()        [Layer 3: Utility / I/O]
+    │   └── simpan_riwayat()
+    ├── menu_stok()  → get_kode_unik, cari_produk_*, bubble_sort, sort_builtin
+    └── menu_laporan() → tampilkan_riwayat, tampilkan_laporan_rekursif, bigO
+
+
 
 ## **2.2 Pemilihan Struktur Data**
 
